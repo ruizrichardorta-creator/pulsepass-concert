@@ -1,2 +1,7 @@
+*.secret.*
+*.local.json
+.env
+evidencias/
+capturas/
 *.log
 *.tmp
